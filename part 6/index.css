@@ -1,0 +1,77 @@
+form{
+    font-family: sans-serif;
+    padding-top: 25px;}
+.satu{
+    background-color: #00bfff;
+}
+select {
+    background-color: white;
+    border: thin solid grey;
+    border-radius: 4px;
+    padding:2px;
+    padding-right: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+     }
+     select.country{
+
+        border-radius: 8px;
+        background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30'><polyline points='8,12,15,8,22,12' fill='none' style='stroke:white;stroke-width:2'/><polyline points='8,18,15,22,22,18' fill='none' style='stroke:white;stroke-width:2'/></svg>"),
+        linear-gradient(to bottom, #a0d8ff 0%, #2591dd 150%);;
+        height: 100%;
+        width: 150px;
+        background-position: center right;
+        background-size:  1.5em 1.5em;
+        background-repeat: no-repeat;
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-bottom: 15px;
+        }
+       t.country:focus{
+            border-color: grey;
+            outline: 0;
+        }
+        .formsubmit2{
+            padding-top: 10px;
+        }
+        .formsubmit{
+            line-height: 28px;
+        }
+        div.form{
+            padding-right: 73%;
+        }
+        #vname1{
+            margin-left: 78px;
+            padding-right: 70px;
+        }
+        #vname2{
+            margin-left: 80px;
+            padding-right: 70px;      
+        }
+        .yesno{
+            margin-left: 20px;
+            display: inline;
+        }
+        .member{
+            display: inline;
+        }
+        .k1{
+            font-weight: bold;
+        }
+        input.submit{
+            font-size: 15px;
+            margin-top: 10px;
+            margin-left: 20%;
+            background-color: darkgreen;
+            color: white;
+            padding: 5px;
+            border-radius: 10px;
+            border: 1px solid black;
+        }
+        input.submit:hover{
+            background-color: white;
+            color: darkgreen;
+        }
