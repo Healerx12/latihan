@@ -24,4 +24,4 @@ const StartScreen = ({ navigation }) => (
   </Background>
 )
 
-export default StartScreen
+
