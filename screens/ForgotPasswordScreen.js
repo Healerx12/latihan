@@ -48,4 +48,4 @@ const ForgotPasswordScreen = ({ navigation }) => {
   )
 }
 
-export default ForgotPasswordScreen
+
