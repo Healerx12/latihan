@@ -27,4 +27,4 @@ const Dashboard = ({ navigation }) => (
   </Background>
 )
 
-export default Dashboard
+
